@@ -25,8 +25,8 @@
 
 2. controlled recurssion -> only move the pointer when iterator is called
 -> nature of the iterator is lazy loading
--> TC: 
--> SC: 
+-> TC: O(1) -> amortized time
+-> SC: O(N)
 */
 
 //method 1
